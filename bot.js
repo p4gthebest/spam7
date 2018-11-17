@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("P4G the best");
+console.log("P4G is the best");
 
 
 client.on("ready", () => {
